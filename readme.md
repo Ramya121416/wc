@@ -1,5 +1,7 @@
 coading challenges -> build your own wc tool
 
+make sure the script executable using "chmod" command.
+
 Imports: 
          It uses re for regular expressions and sys to handle command-line arguments.
 
