@@ -22,3 +22,4 @@ Command-Line Options:
     If no second argument is given, it prints all three counts: words, characters, and lines.
 
     
+command in console as : wc text_file_name  argumentas(-l,-w,-c)(optional)
