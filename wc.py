@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+
 import re
 import sys      
 # takes argument from command line as (python3  wc.py  text_file_name  any_arguments(-l,-w,-c)(optinal))
